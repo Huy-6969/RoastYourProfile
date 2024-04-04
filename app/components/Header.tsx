@@ -13,11 +13,11 @@ function Header() {
           alt={"Tinder logo"}
         />
         <h1 className="text-3xl font-bold text-gray-600">
-          Tinder Profile Roaster
+          Huy's Profile Roaster
         </h1>
       </div>
       <h2 className="text-xl mt-2 font-semibold text-gray-500">
-        Upload your profile pictures so AI can roast you!
+        Upload your profile picture so Huy.GPT can roast you!
       </h2>
     </div>
   );

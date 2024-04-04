@@ -86,7 +86,7 @@ export default function Home() {
         {/* Upload Area */}
         <label className="cursor-pointer">
           <div className="border-2 border-dashed border-gray-300 rounded-lg p-4 mt-4">
-            <p className="text-lg text-gray-600">Upload Images</p>
+            <p className="text-lg text-gray-600">Upload Your Image</p>
             <input
               type="file"
               accept="image/*"
@@ -111,7 +111,7 @@ export default function Home() {
           </button>
           {images.length === 0 && (
             <p className="text-xs text-gray-500 mt-2">
-              You need to upload images to start the roast
+              Need to upload images so I can roast you
             </p>
           )}
         </div>

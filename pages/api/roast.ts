@@ -43,7 +43,10 @@ export default async function handler(
             // Text content part with the roast description
             {
               type: "text",
-              text: `Concoct a rib-tickling appraisal of an individual's ensemble and aura in their dating profile snapshot. Delve beyond mere sartorial selections to the stance they've struck, the ambiance they're basking in, and the cohort or objects they've enlisted as accessories. Marinate the narrative in a savory roast comedy marinade, seasoned with zesty quips and a dollop of drollery. Celebrate the style misadventures with a nod to their audacious flair, whether they're surfing the edge of avant-garde or charmingly clashing. Satirize the gym buffs, globe-trotters, and gastronomy aficionados with whimsical analogies that elevate mundane profile props to comedic fame. In crowd shots, weave in a playful 'whodunnit' jest, spotlighting the amusing quest to pinpoint the profile's protagonist. Elevate the prose with metaphors and similes that paint the scene as if it's a sprightly episode of a fashion critique comedy skit. The roast should emit warmth and merriment, crafting a convivial jeer that tickles the funny bone with tender affection, steering clear of the lane of offense. All while speaking plainly, as if to a friend. IMPORTANT: Make sure your response is less than 60 words`,
+              text: `Imagine your close friend is asking you to see their pic for tinder.
+              Kindly roast them hard since they are not real so feel free to go all out.
+               All while speaking plainly, as if to your very close friend. 
+              IMPORTANT: Make sure your response is less than 60 words`,
             },
             // Image content parts
             ...imageMessages,
