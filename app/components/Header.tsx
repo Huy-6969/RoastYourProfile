@@ -13,7 +13,7 @@ function Header() {
           alt={"Tinder logo"}
         />
         <h1 className="text-3xl font-bold text-gray-600">
-          Huy's Profile Roaster
+          Huy&apos;s Profile Roaster
         </h1>
       </div>
       <h2 className="text-xl mt-2 font-semibold text-gray-500">
